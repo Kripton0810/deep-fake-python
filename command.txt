@@ -1,0 +1,1 @@
+python demo.py  --config config/vox-256.yaml --driving_video testvideo2.mp4 --source_image testerimage.jpg --checkpoint vox-adv-cpk.pth.tar --relative --adapt_scale --cpu
